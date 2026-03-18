@@ -54,12 +54,12 @@ Data           PostgreSQL/PostGIS · Pandas · Airflow
 | [danskprep](https://github.com/YanCheng-go/danskprep) | An app for Danish exam preparation. | 2 |
 | [Cross-Resolution-Dead-Tree-Segmentation](https://github.com/YanCheng-go/Cross-Resolution-Dead-Tree-Segmentation) | Cross-resolution segmentation of individual dead trees from ... | 1 |
 | [YanCheng-go](https://github.com/YanCheng-go/YanCheng-go) | GitHub profile README — auto-synced from yancheng-go.github.... | - |
-| [github-project-template](https://github.com/YanCheng-go/github-project-template) |  | - |
 | [pixel-art-studio](https://github.com/YanCheng-go/pixel-art-studio) | Browser-based pixel art editor with AI generation (Gemini) a... | - |
+| [litmus-test-yan](https://github.com/YanCheng-go/litmus-test-yan) | A simple deforestation detector using Landsat timeseries | - |
 <!-- PINNED-REPOS:END -->
 
 ---
 
 <div align="center">
-<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-03-17<!-- LAST-UPDATED:END --></sub>
+<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-03-18<!-- LAST-UPDATED:END --></sub>
 </div>
