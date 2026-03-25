@@ -50,7 +50,7 @@ Data           PostgreSQL/PostGIS · Pandas · Airflow
 <!-- PINNED-REPOS:START -->
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [my-focal-ai](https://github.com/YanCheng-go/my-focal-ai) | Personal news intelligence — aggregate AI content from curat... | 2 |
+| [my-focal-ai](https://github.com/YanCheng-go/my-focal-ai) | Personal news intelligence — aggregate AI content from curat... | 3 |
 | [danskprep](https://github.com/YanCheng-go/danskprep) | An app for Danish exam preparation. | 2 |
 | [pixel-art-studio](https://github.com/YanCheng-go/pixel-art-studio) | Browser-based pixel art editor with AI generation (Gemini) a... | 1 |
 | [Cross-Resolution-Dead-Tree-Segmentation](https://github.com/YanCheng-go/Cross-Resolution-Dead-Tree-Segmentation) | Cross-resolution segmentation of individual dead trees from ... | 1 |
@@ -61,5 +61,5 @@ Data           PostgreSQL/PostGIS · Pandas · Airflow
 ---
 
 <div align="center">
-<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-03-24<!-- LAST-UPDATED:END --></sub>
+<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-03-25<!-- LAST-UPDATED:END --></sub>
 </div>
