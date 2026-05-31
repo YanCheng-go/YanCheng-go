@@ -23,7 +23,7 @@ Denmark · Previously: Netherlands, USA, Kenya, Germany, Switzerland, China
 <!-- SCHOLAR-STATS:START -->
 | Publications | Citations | h-index |
 |:---:|:---:|:---:|
-| 19 | 338 | 6 |
+| 19 | 344 | 6 |
 <!-- SCHOLAR-STATS:END -->
 
 ### Tech Stack
@@ -61,5 +61,5 @@ Data           PostgreSQL/PostGIS · Pandas · Airflow
 ---
 
 <div align="center">
-<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-05-30<!-- LAST-UPDATED:END --></sub>
+<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-05-31<!-- LAST-UPDATED:END --></sub>
 </div>
