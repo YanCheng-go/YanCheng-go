@@ -50,7 +50,7 @@ Data           PostgreSQL/PostGIS · Pandas · Airflow
 <!-- PINNED-REPOS:START -->
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [my-focal-ai](https://github.com/YanCheng-go/my-focal-ai) | Personal news intelligence — aggregate AI content from curat... | 8 |
+| [my-focal-ai](https://github.com/YanCheng-go/my-focal-ai) | Personal news intelligence — aggregate AI content from curat... | 11 |
 | [pixel-art-studio](https://github.com/YanCheng-go/pixel-art-studio) | Browser-based pixel art editor with AI generation (Gemini) a... | 3 |
 | [danskprep](https://github.com/YanCheng-go/danskprep) | An app for Danish exam preparation. | 3 |
 | [litmus-test-yan](https://github.com/YanCheng-go/litmus-test-yan) | A simple deforestation detector using Landsat timeseries | 1 |
@@ -61,5 +61,5 @@ Data           PostgreSQL/PostGIS · Pandas · Airflow
 ---
 
 <div align="center">
-<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-06-18<!-- LAST-UPDATED:END --></sub>
+<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-06-19<!-- LAST-UPDATED:END --></sub>
 </div>
