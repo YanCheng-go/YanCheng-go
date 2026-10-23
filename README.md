@@ -61,5 +61,5 @@ Data           PostgreSQL/PostGIS · Pandas · Airflow
 ---
 
 <div align="center">
-<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-10-22<!-- LAST-UPDATED:END --></sub>
+<sub>Auto-updated via GitHub Actions · <!-- LAST-UPDATED:START -->2026-10-23<!-- LAST-UPDATED:END --></sub>
 </div>
